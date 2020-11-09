@@ -1,5 +1,5 @@
-# ReMarkable
-All things ReMarkable Tablet - Templates, Tools etc.
+# reMarkable
+All things reMarkable Tablet (2) - Templates, Tools etc.
 
 
 Templates:
